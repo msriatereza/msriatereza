@@ -8,5 +8,5 @@
 <!-- ## Socials: -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/msriatereza)
 </br> -->
-<!-- ![Snake animation](https://github.com/msriatereza/msriatereza/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/{{your_username}}/msriatereza/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
 
